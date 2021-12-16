@@ -1,0 +1,9 @@
+Package: gotop
+Version: 4.1.2-1
+Description: A terminal based graphical activity monitor inspired by gtop and vtop
+Architecture: amd64
+License: MIT
+Maintainer: Fabio Lolix Loli <fabio.loli@disroot.org>, ->, https://github.com/FabioLolix Sean E. Russell <ser@ser1.net>, -> also the program developer
+Homepage: https://github.com/xxxserxxx/gotop
+Installed-Size: 10127
+Depends: glibc-source
