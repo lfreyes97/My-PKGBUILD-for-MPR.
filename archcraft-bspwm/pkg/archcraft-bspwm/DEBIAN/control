@@ -1,0 +1,10 @@
+Package: archcraft-bspwm
+Version: 1.0-2
+Description: Bspwm Configurations for Archcraft
+Architecture: all
+License: GPL3
+Maintainer: Aditya Shakya <adi1090x@gmail.com>
+Homepage: https://github.com/archcraft-os/archcraft-bspwm
+Installed-Size: 198
+Depends: archcraft-skeleton
+Provides: archcraft-bspwm
