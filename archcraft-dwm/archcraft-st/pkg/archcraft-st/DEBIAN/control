@@ -1,0 +1,10 @@
+Package: archcraft-st
+Version: 0.8.4-1
+Description: A simple virtual terminal emulator for X.
+Architecture: amd64
+License: MIT
+Maintainer: Aditya Shakya <adi1090x@gmail.com>
+Homepage: https://st.suckless.org
+Installed-Size: 161
+Depends: libxft-dev
+Conflicts: st

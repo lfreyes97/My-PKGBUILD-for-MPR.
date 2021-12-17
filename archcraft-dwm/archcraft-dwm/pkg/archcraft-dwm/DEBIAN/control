@@ -1,0 +1,11 @@
+Package: archcraft-dwm
+Version: 1.0-1
+Description: DWM for Archcraft
+Architecture: all
+License: GPL3
+Maintainer: Aditya Shakya <adi1090x@gmail.com>
+Homepage: https://github.com/archcraft-os/archcraft-dwm
+Installed-Size: 14013
+Depends: libx11-6, libxinerama1, libxft-dev, freetype2-doc, archcraft-st, hsetroot
+Conflicts: dwm
+Provides: archcraft-dwm
